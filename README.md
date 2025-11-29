@@ -1,4 +1,4 @@
-# Theme Park
+# Graphics Town Project
 <p>
     My theme is "Fun Park". I not only had all of the objects be related to a fun park, but I also tried to keep the color theme consistent.
     <br><br>
