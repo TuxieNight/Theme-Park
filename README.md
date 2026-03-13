@@ -1,5 +1,7 @@
 # Graphics Town Project
 <p>
+    <b>View the 3D Scene here: https://tuxienight.github.io/Theme-Park/</b>
+    <br><br>
     My theme is "Fun Park". I not only had all of the objects be related to a fun park, but I also tried to keep the color theme consistent.
     <br><br>
     Move the camera:
